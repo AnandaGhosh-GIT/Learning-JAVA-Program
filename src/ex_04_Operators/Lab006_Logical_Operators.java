@@ -15,5 +15,8 @@ public class Lab006_Logical_Operators {
         boolean d= false && true;
         System.out.println(d);
 
+        //Interview QN
+        System.out.println(!(10>20));
+
     }
 }

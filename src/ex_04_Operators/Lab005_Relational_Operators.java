@@ -22,6 +22,9 @@ public class Lab005_Relational_Operators {
         boolean result = age_Ananda >= age_Subarna;
         System.out.println(result);
 
+        System.out.println(10==10);
+        System.out.println(10==11);
+
         //// relational operators always yield a boolean result (true or false)
     }
 }
