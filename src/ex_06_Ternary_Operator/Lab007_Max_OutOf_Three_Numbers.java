@@ -7,5 +7,6 @@ public class Lab007_Max_OutOf_Three_Numbers {
         int n3 = 11;
         int result = (n1>n2)?(n1>n3?n1:n3):(n2>n3?n2:n3);
         System.out.println(result);
+
     }
 }

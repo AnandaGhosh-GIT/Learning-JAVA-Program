@@ -5,5 +5,6 @@ public class Lab006_EvenOdd_Number {
         int x = 13;
         String result= (x%2==0)?"Even":"Odd";
         System.out.println("Number is: "+ result);
+
     }
 }

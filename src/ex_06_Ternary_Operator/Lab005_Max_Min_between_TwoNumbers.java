@@ -8,5 +8,6 @@ public class Lab005_Max_Min_between_TwoNumbers {
         int min = x < y ? x : y;
         System.out.println("max = " + max);
         System.out.println("min = " + min);
+
     }
 }
