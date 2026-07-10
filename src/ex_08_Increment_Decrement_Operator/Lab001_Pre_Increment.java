@@ -15,6 +15,5 @@ public class Lab001_Pre_Increment {
         //  7 |  11 - a | NA
         //  8 |  11 | 11 - b
 
-
     }
 }

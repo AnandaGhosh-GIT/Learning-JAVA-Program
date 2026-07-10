@@ -13,6 +13,5 @@ public class Lab004_Post_Decrement {
         //  6 |  10 | 9  |  //'a's value is stored first in 'b' then decremented
         //  7 |  9 - a | NA
         //  8 |  9  | 10 - b
-
     }
 }

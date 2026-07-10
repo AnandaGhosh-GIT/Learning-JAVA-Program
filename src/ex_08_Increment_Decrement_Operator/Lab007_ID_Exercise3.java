@@ -5,5 +5,6 @@ public class Lab007_ID_Exercise3 {
         int a = 10;
         System.out.println(++a + ++a);
         System.out.println(a);
+
     }
 }
