@@ -1,6 +1,6 @@
 package ex_07_User_Input;
 
-public class Lab001_User_Age_Classification {
+public class Lab001_User_Age_Classification_through_CLIInput {
     // A user input will give you an age.
     // We need to check if the user is minor, adult or senior citizen.
 
