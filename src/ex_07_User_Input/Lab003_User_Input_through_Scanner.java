@@ -11,8 +11,9 @@ public class Lab003_User_Input_through_Scanner {
         int age = input.nextInt();
         System.out.println(name + age);
 
+         ////For other datatypes also we can use scanner class for user input:
         //float height = input.nextFloat();
-        //double weight = input.nextDouble();
+        // double weight = input.nextDouble();
         //long mobile_number = input.nextLong();
     }
 }
