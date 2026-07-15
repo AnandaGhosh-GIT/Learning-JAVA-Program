@@ -10,5 +10,9 @@ public class Lab003_User_Input_through_Scanner {
         System.out.println("Enter your age: ");
         int age = input.nextInt();
         System.out.println(name + age);
+
+        //float height = input.nextFloat();
+        //double weight = input.nextDouble();
+        //long mobile_number = input.nextLong();
     }
 }
