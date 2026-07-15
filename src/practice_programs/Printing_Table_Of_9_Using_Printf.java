@@ -14,6 +14,5 @@ public class Printing_Table_Of_9_Using_Printf {
        System.out.printf("%d*8 =%d%n", i, i*8);
        System.out.printf("%d*9 =%d%n", i, i*9);
        System.out.printf("%d*10 =%d%n", i, i*10);
-
     }
 }
