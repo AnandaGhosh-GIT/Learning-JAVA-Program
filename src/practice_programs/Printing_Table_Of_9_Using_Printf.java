@@ -3,7 +3,7 @@ package practice_programs;
 public class Printing_Table_Of_9_Using_Printf {
    public static void main(String[] args) {
        int i = 9;
-       System.out.println("Table of 9:");
+       System.out.println("Table of "+ i +":");
        System.out.printf("%d*1 =%d%n", i, i*1);
        System.out.printf("%d*2 =%d%n", i, i*2);
        System.out.printf("%d*3 =%d%n", i, i*3);
