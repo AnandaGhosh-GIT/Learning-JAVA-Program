@@ -1,4 +1,4 @@
-package ex_10_Switch_Statement_;
+package ex_10_Switch_Statement;
 
 public class Lab012_Switch_Case_MultipleValues_JDK13above {
     public static void main(String[] args) {

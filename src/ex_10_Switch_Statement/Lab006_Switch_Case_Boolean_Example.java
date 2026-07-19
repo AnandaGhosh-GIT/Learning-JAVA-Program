@@ -1,4 +1,4 @@
-package ex_10_Switch_Statement_;
+package ex_10_Switch_Statement;
 
 public class Lab006_Switch_Case_Boolean_Example {
     public static void main(String[] args) {

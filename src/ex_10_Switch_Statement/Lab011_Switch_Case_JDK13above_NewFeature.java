@@ -1,4 +1,4 @@
-package ex_10_Switch_Statement_;
+package ex_10_Switch_Statement;
 
 public class Lab011_Switch_Case_JDK13above_NewFeature {
     public static void main(String[] args) {

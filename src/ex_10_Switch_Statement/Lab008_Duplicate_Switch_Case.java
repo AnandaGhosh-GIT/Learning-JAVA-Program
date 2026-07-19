@@ -1,4 +1,4 @@
-package ex_10_Switch_Statement_;
+package ex_10_Switch_Statement;
 
 public class Lab008_Duplicate_Switch_Case {
     public static void main(String[] args) {

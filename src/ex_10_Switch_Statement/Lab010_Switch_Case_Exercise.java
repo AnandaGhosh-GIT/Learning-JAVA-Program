@@ -1,4 +1,4 @@
-package ex_10_Switch_Statement_;
+package ex_10_Switch_Statement;
 
 public class Lab010_Switch_Case_Exercise {
     public static void main(String[] args) {
