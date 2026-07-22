@@ -1,0 +1,17 @@
+package ex_11_For_Loop;
+
+public class Lab001_For_Loop {
+    public static void main(String[] args) {
+        //// For Loop -Help you to repeat a block of code.
+        // Initialization -> Condition ->Execution-> Updation(Incre/decre)
+        // ICEU
+
+        //  for(I;C;U){
+        //    this is the code that you want to execute multiple times(E)
+        // }
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
+    }
+}
