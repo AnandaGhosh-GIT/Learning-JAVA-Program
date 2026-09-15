@@ -31,7 +31,6 @@ public class Number_Guessing_Game_Using_While_Loop {
                 System.out.println("Correct! You have taken -> " + attempts +" attempts");
                 break;
             }
-
         }
     }
 }
