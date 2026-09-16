@@ -1,7 +1,7 @@
 package ex_11_For_Loop;
 
 public class Lab012_For_Loop_Even_number_with_Continue_keyword {
-    public static void main (String args[]){
+    public static void main (String[] args){
 
         ////Printing Even Number
         for(int i=0; i<=50; i++){

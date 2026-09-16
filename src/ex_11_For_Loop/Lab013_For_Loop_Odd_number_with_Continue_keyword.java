@@ -1,7 +1,7 @@
 package ex_11_For_Loop;
 
 public class Lab013_For_Loop_Odd_number_with_Continue_keyword {
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         ////Printing Odd Number
         for(int i=0; i<=50; i++){
