@@ -1,7 +1,7 @@
 package ex_13_Do_While_Loop;
 
 public class Lab002_Difference_between_While_DoWhile {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int a=0;
 
         ////While Loop
