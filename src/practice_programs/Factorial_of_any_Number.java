@@ -3,7 +3,7 @@ package practice_programs;
 import java.util.Scanner;
 
 public class Factorial_of_any_Number {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the Number:");
         int factorial = 1;
