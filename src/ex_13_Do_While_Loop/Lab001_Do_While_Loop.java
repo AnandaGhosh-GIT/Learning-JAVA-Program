@@ -9,3 +9,4 @@ public class Lab001_Do_While_Loop {
         }while(a<10);
     }
 }
+ 
