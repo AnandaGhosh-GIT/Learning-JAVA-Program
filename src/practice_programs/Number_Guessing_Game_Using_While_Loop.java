@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Number_Guessing_Game_Using_While_Loop {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Random random = new Random();
         int numberToGuess = random.nextInt(100); // Guess a number from 1 to 100
 
