@@ -26,5 +26,15 @@ public class Lab005_String_Functions2 {
         String s3 = "    Ananda Ghosh  ";
         System.out.println(s3.trim());
 
+
+        //// split() method of the String class divides a string into an array of
+        //// substrings based on a specified delimiter or regular expression (regex)
+        String s4 ="Hello World";
+        String[] s5 =s4.split(" ");
+        System.out.println(s5[0]);
+        System.out.println(s5[1]);
+
+
+
     }
 }
